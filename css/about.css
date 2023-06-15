@@ -1,0 +1,84 @@
+
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    text-decoration:solid;
+    font-size: large;
+    font-weight: bold;
+  }
+  
+  *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+ 
+  body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #d5d5d5;
+    padding: 20px;
+  }
+  
+  header {
+    color: #f0ff21;
+    background-color: black;
+
+   
+  }
+  
+  h1 {
+    font-size: 28px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(0, 0, 0);
+
+  }
+
+  NAV{
+ 
+    height: 50px;
+    
+    
+  }
+
+
+  nav ul{
+    list-style: none;
+  }
+
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+    
+  }
+  
+  nav ul li a {
+    color: #00ffbf;
+    text-decoration: none;
+  }
+  
+  section {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 16px;
+  }
+  
+  .contact-info {
+    margin-bottom: 10px;
+  }
+  
+  .contact-info h3 {
+    margin-bottom: 5px;
+  }
+  
+  .contact-info p {
+    margin-bottom: 5px;
+  }
+  
